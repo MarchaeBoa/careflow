@@ -278,7 +278,7 @@ export default function MarketingLayout({
           {/* CNPJ */}
           <div className="mt-6 border-t border-white/5 pt-6 text-center">
             <p className="text-xs text-white/25">
-              RD SIMULADORES E TECNOLOGIA LTDA — CNPJ: 17.332.330/0001-87
+              STARTALONG VENTURES LLC — EIN: 38-4199764
             </p>
           </div>
         </div>
